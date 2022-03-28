@@ -1,4 +1,6 @@
-### Hi there 👋
+### t-FDP: Improved Force-Directed Graph Layouts with t-Distribution Energy
+
+It will be available soon.👋
 
 <!--
 **t-fdp/t-fdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
