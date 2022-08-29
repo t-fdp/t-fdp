@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Source code for "Force-directed graph layouts revisited: a new force based on the t-Distribution". 👋
+We will release the source code after the paper is accepted.
 <!--
 **t-fdp/t-fdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
