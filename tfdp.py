@@ -3,12 +3,12 @@ from scipy.sparse import csr_matrix, tril
 import numpy as np
 import dask.dataframe  # to read large graph data
 from utils import pivotMDS, scaleByEdge, pivot_spd
-from optimize.ibFFT_CPU import ibFFT_CPU
-from optimize.ibFFT_GPU import ibFFT_GPU
+from simulation.ibFFT_CPU import ibFFT_CPU
+from simulation.ibFFT_GPU import ibFFT_GPU
 
-from optimize.Exact import Exact
-from optimize.BH import BH
-from optimize.RVS import RVS
+from simulation.Exact import Exact
+from simulation.BH import BH
+from simulation.RVS import RVS
 import torch
 import numba
 
